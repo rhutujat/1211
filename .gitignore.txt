@@ -1,1 +1,1 @@
-passwords are saved in this files : 1234567uioiuythgrfdsxc cvnm
+pass.txt
